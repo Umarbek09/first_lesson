@@ -6,4 +6,13 @@ public class Main {
     public static int sum(int a,int b){
         return a+b;
     }
+
+
+    //________________________
+
+
+
+    public static float average2(float a,float b){
+        return (a+b)/2;
+    }
 }
